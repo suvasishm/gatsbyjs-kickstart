@@ -1,7 +1,8 @@
 Getting start with GatsbyJS
 
 #### started the new site using the hello-world starter
-`$ gatsby new gatsby-kickstart`
+`$ gatsby new gatsbyjs-kickstart`
+`$ cd gatsbyjs-kickstart`
 
 #### start dev server
 `$ gatsby develop`
